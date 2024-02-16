@@ -1,2 +1,2 @@
 - 👋 Hi, I’m @TolebiMyrzan
-- 👀 I’m interested in AI
+- 👀 I’m interested in Program Language, Architecture, Politic
