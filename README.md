@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @TolebiMyrzan
-- 👀 I’m interested in Program Language, Architecture, Politic
+I am Kazak. I am a programmer and computer science researcher.
